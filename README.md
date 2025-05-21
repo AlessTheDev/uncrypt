@@ -22,7 +22,7 @@ More Details can be found in the **Game Design Document**: https://spiny-twister
 
 ## About Route 35
 Route 35 is a creative subteam formed specifically for projects that diverge from Cupflow’s main line of work. Originally, Cupflow was established by Aless and Scstefan as a collaborative identity under which they produced various creative works. For certain projects, such as school-related competitions or experimental releases that fall outside of Cupflow’s typical scope, a new team identity was needed.
-Thus, Route 35 was created. It retains Cupflow’s core members and creative style while allowing flexibility in team composition and project direction. For the competition in question, Route 35 included Aless, Scstefan, Bluwolf (who contributed modeling, textures, sound effects, and writing), and one additional team member who preferred to remain anonymous.
+Thus, Route 35 was created. It retains Cupflow’s core members and creative style while allowing flexibility in team composition and project direction. For the project in question, Route 35 included Aless, Scstefan, Bluwolf (who contributed modeling, textures, sound effects, and writing), and one additional team member who helped with minor things and preferred to remain anonymous.
 
 Credits for this project
 - **Aless** - Developer & VFX Artist (Core systems, visual effects)
