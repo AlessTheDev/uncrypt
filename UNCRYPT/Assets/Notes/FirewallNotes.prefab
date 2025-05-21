@@ -1,0 +1,1986 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &417218464727928835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7411363911293760833}
+  m_Layer: 0
+  m_Name: FirewallNotes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7411363911293760833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 417218464727928835}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6408350872461985804}
+  - {fileID: 1218232934771905417}
+  - {fileID: 5667978196631780336}
+  - {fileID: 5832845084204414365}
+  - {fileID: 9118957669765042775}
+  - {fileID: 5448154975946383364}
+  - {fileID: 7828814748219687043}
+  - {fileID: 8464699103375732981}
+  - {fileID: 7999114617938882372}
+  - {fileID: 3166646830894414514}
+  - {fileID: 1982863136817810205}
+  - {fileID: 7646772076531973129}
+  - {fileID: 8582615302929030938}
+  - {fileID: 1644107144705694585}
+  - {fileID: 3141515814254094585}
+  - {fileID: 3897257113580131000}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &125878016582792726
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: allow_or_deny.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 301.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 93.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: "Firewalls follow a list of rules, starting from the top. Once they
+        find a rule that matches the traffic, they stop checking the others. For
+        this reason, more specific rules should be placed first. It\u2019s like organizing
+        a to-do list by priority."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: stateful_inspection.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &5832845084204414365 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 125878016582792726}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &694207429767383943
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: firewall_rules.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 186.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 230.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: 'A firewall is like a security guard for your network. It decides which
+        data (or "traffic") can enter or leave based on a set of rules that you define.
+        These rules act like instructions, for example: "Block traffic from unknown
+        sources" or "Allow only trusted connections."'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: firewall_rules.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &6408350872461985804 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 694207429767383943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1933984625032307599
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: application_firewall.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 216.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 134.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: "Some firewalls work more thoroughly by analyzing the data itself, not
+        just the labels. For example, they might block dangerous attachments in emails
+        or prevent unauthorized apps from sending data. It\u2019s like a detective
+        inspecting the contents of the packages to make sure they\u2019re safe."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: application_firewall.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &5448154975946383364 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 1933984625032307599}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2298503715049764987
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: stateful_inspection.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 346.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 333.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: 'While basic firewalls check packets one by one, firewalls with dynamic
+        inspection (stateful) are smarter: they keep track of conversations. For
+        example, if you send a request to a website, the firewall remembers it and
+        allows the site to respond. If something tries to respond without your request,
+        it gets blocked.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: stateful_inspection.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &5667978196631780336 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 2298503715049764987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2609271025234785150
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: dmz_zone.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 168.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 363.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: "A DMZ (Demilitarized Zone) is like a buffer zone in your network. It
+        holds systems accessible to the public, such as your company\u2019s website,
+        but keeps them separate from your private network. Firewalls control what
+        can pass between the DMZ, the private network, and the internet."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: dmz_zone.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &8464699103375732981 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 2609271025234785150}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2762619678331968657
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: honeypot_warning.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 140.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 244.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: Some firewalls work with "honeypots," which are fake systems designed
+        to deceive attackers. When hackers target the honeypot, you can observe what
+        they are trying to do without putting real systems at risk. It's like bait
+        used to catch criminals in the act.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: honeypot_warning.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &8582615302929030938 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 2762619678331968657}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3440841921893421532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: default_deny_rule.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 289.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 268.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: "This is one of the most important rules: **\"If no rule explicitly
+        allows traffic, block it.\"** It\u2019s called the \"Implicit Deny\" rule
+        and it's like saying, \"Better safe than sorry.\" It ensures that only safe
+        and authorized traffic is allowed through."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: stateful_inspection.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &9118957669765042775 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 3440841921893421532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4274921415045676930
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: fun_fact_history.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 64.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 279.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: Did you know that firewalls have existed since 1988? The first one,
+        called packet filtering, was created by Digital Equipment Corporation (DEC).
+        It laid the foundation for modern cybersecurity, protecting systems from
+        the early hackers.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: fun_fact_history.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &7646772076531973129 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 4274921415045676930}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4461045606955664136
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: firewall_vs_ids.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 48.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 35.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: A firewall and an intrusion detection system (IDS) work like partners.
+        The firewall blocks malicious traffic, while the IDS is like an alarm system
+        that alerts you if someone tries to break in. Together, they provide a stronger
+        defense.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: application_firewall.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &7828814748219687043 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 4461045606955664136}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4490027865478278351
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: common_ports.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 269.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 356.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: 'Data travels on the Internet using "ports," which are like entry doors
+        to your computer. Some ports are commonly used for specific tasks, such as: 
+        - **Port 80:** For normal web browsing. - **Port 443:** For secure web browsing
+        (HTTPS). - **Port 22:** For secure remote access (SSH).  If you don''t need
+        certain ports, it''s better to keep them closed to reduce the risk of attacks.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: common_ports.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &7999114617938882372 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 4490027865478278351}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4730275728456896514
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: packet_filter_basics.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 91.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 302.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: Imagine every piece of data traveling on the internet as a small package
+        with a label. A packet-filtering firewall checks these labels, like the sender's
+        address, the recipient's address, and the content of the package, and decides
+        whether to allow it through or block it. For example, it might block packets
+        coming from suspicious addresses or with "dangerous" labels.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: packet_filter_basics.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &1218232934771905417 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 4730275728456896514}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5160089898653112562
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: log_analysis.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 81.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 121.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: Firewalls keep detailed logs of all the traffic they block or allow.
+        Regularly reviewing these logs helps you spot suspicious activities, like
+        someone repeatedly trying to access your network. It's like checking a security
+        camera for anything unusual.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: log_analysis.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &1644107144705694585 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 5160089898653112562}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5389070789988288662
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: test_your_rules.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 58.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 175.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: Creating firewall rules can be tricky. A mistake could block important
+        traffic, like emails or websites. Always test new rules in a safe environment
+        before implementing them to make sure everything works as expected.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: test_your_rules.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &1982863136817810205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 5389070789988288662}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7446858539372335411
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: zero_trust_policy.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 224.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 13.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: 'The Zero Trust model is a simple but powerful idea: **Never trust anything
+        automatically.** Even things within your network must prove to be secure
+        before they are allowed to do anything. A firewall can enforce this rule
+        by blocking everything that isn''t explicitly allowed.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: zero_trust_policy.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &3897257113580131000 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 7446858539372335411}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8844902899038452025
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: NAT_basics.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 379.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 352.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: Network Address Translation (NAT) is like a translator for your network.
+        It takes private IP addresses (used inside your home or office) and hides
+        them behind a single public IP address. This makes it harder for attackers
+        to reach individual devices in your network.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: NAT_basics.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &3166646830894414514 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 8844902899038452025}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8851190845923306354
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7411363911293760833}
+    m_Modifications:
+    - target: {fileID: 3474459742241616453, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_Name
+      value: dos_protection.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237961239761481010, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 380.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6399843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: content
+      value: Have you ever heard of a Denial-of-Service (DoS) attack? It's when an
+        attacker floods your network with so much traffic that it crashes. Firewalls
+        can help by detecting and blocking these flows before they cause any damage.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6358425105187364457, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: fileName
+      value: dos_protection.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8408169664229964134, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+--- !u!4 &3141515814254094585 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5858436344255185803, guid: 8eb7e1392b1c8b74699b28690c48d430, type: 3}
+  m_PrefabInstance: {fileID: 8851190845923306354}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,152 @@
+[
+  {
+    "dialogueId": "final_assistant_1",
+    "characterId": "companion",
+    "sentence": "Oh no. Where are we?",
+    "nextDialogue": "final_assistant_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "final_assistant_2",
+    "characterId": "companion",
+    "sentence": "We need to find a way out!& Maybe that guy knows something...",
+    "nextDialogue": "NONE",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_1",
+    "characterId": "pc_owner",
+    "sentence": "I can't believe this! Why is my file system such a mess?",
+    "nextDialogue": "pc_owner_2",
+    "actions": ["PlayAnimation|A_Talk"],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_2",
+    "characterId": "pc_owner",
+    "sentence": "It's like someone broke in and started messing with everything...",
+    "nextDialogue": "pc_owner_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_3",
+    "characterId": "pc_owner",
+    "sentence": "...",
+    "nextDialogue": "pc_owner_4",
+    "actions": ["PlayAnimation|A_Idle"],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_4",
+    "characterId": "pc_owner",
+    "sentence": "Wait a second...",
+    "nextDialogue": "pc_owner_5",
+    "actions": ["PlayAnimation|A_Talk"],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_5",
+    "characterId": "pc_owner",
+    "sentence": "It was YOU!",
+    "nextDialogue": "pc_owner_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_6",
+    "characterId": "companion",
+    "sentence": "Uh.. &Uhm... Well...",
+    "nextDialogue": "pc_owner_7",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_7",
+    "characterId": "pc_owner",
+    "sentence": "How dare you sneak into my file system without permission!",
+    "nextDialogue": "pc_owner_8",
+    "actions": [
+      "PlayAnimation|A_Angry"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_8",
+    "characterId": "pc_owner",
+    "sentence": "I'll show you who's in charge around here...",
+    "nextDialogue": "pc_owner_9",
+    "actions": [
+      "PlayAnimation|A_Talk"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_9",
+    "characterId": "pc_owner",
+    "sentence": "CleanerBOT3000! Get over here, nowwwww!",
+    "nextDialogue": "pc_owner_10",
+    "actions": ["CallBot"],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_10",
+    "characterId": "companion",
+    "sentence": "Oh no...",
+    "nextDialogue": "pc_owner_11",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_11",
+    "characterId": "pc_owner",
+    "sentence": "Antivirus, delete these two things immediately!",
+    "nextDialogue": "pc_owner_12",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_12",
+    "characterId": "bot",
+    "sentence": "Scanning for items to delete...",
+    "nextDialogue": "pc_owner_13",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_13",
+    "characterId": "pc_owner",
+    "sentence": "Hurry up! I don’t have all day... I gotta play Fortineity later!",
+    "nextDialogue": "pc_owner_14",
+    "actions": [
+      "PlayAnimation|A_Annoyed"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_14",
+    "characterId": "bot",
+    "sentence": "BEEP BOOP BEEP",
+    "nextDialogue": "pc_owner_15",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_15",
+    "characterId": "bot",
+    "sentence": "Deleting system32...",
+    "nextDialogue": "pc_owner_16",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "pc_owner_16",
+    "characterId": "pc_owner",
+    "sentence": "WHAT?! That's not what I meant!!!",
+    "nextDialogue": "NONE",
+    "actions": ["PlayAnimation|A_Angry"],
+    "options": []
+  }
+]

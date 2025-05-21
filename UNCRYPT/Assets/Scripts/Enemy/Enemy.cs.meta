@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e061f8d66964e74428f9ba199c025c15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - indicator: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - visual: {instanceID: 0}
+  - whiteOverlay: {instanceID: 0}
+  - hitSfx: {instanceID: 0}
+  - heart: {fileID: 3139625396685012172, guid: ab435f4b7f991c845b4cb2c98891145f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

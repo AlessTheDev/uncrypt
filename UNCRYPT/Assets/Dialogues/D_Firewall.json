@@ -1,0 +1,174 @@
+[
+  {
+    "dialogueId": "intro_firewall_1",
+    "characterId": "companion",
+    "sentence": "Here we are... man, it's hot in here.",
+    "nextDialogue": "intro_firewall_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_2",
+    "characterId": "companion",
+    "sentence": "This is the firewall zone!",
+    "nextDialogue": "intro_firewall_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_3",
+    "characterId": "companion",
+    "sentence": "A firewall is kind of like a security guard for the network.",
+    "nextDialogue": "intro_firewall_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_4",
+    "characterId": "companion",
+    "sentence": "It controls what data gets in or out, based on a set of rules.",
+    "nextDialogue": "intro_firewall_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_5",
+    "characterId": "companion",
+    "sentence": "These rules are like instructions. For example, 'Block traffic from unknown sources' or 'Only allow trusted connections'.",
+    "nextDialogue": "intro_firewall_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_6",
+    "characterId": "companion",
+    "sentence": "Us? Well... we're probably not on the trusted list.",
+    "nextDialogue": "intro_firewall_7",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_7",
+    "characterId": "companion",
+    "sentence": "But we'll sneak in somehow. Just gotta make sure we don't get spotted by the guards monitoring the ACLs.",
+    "nextDialogue": "intro_firewall_8",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_8",
+    "characterId": "companion",
+    "sentence": "ACL stands for Access Control List.",
+    "nextDialogue": "intro_firewall_9",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_9",
+    "characterId": "companion",
+    "sentence": "They're basically rule lists that decide who or what gets access to specific parts of the network.",
+    "nextDialogue": "intro_firewall_10",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_10",
+    "characterId": "companion",
+    "sentence": "We need to find an opening. I think I've found a hidden entry point.",
+    "nextDialogue": "intro_firewall_11",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_11",
+    "characterId": "companion",
+    "sentence": "Firewalls filter traffic using those rules and they often check which communication ports are being used.",
+    "nextDialogue": "intro_firewall_12",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_12",
+    "characterId": "companion",
+    "sentence": "Ports are like numbered doorways on a device, each meant for a different kind of connection.",
+    "nextDialogue": "intro_firewall_13",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_13",
+    "characterId": "companion",
+    "sentence": "If a port's left open and isn't properly secured, attackers can use it to break in.",
+    "nextDialogue": "intro_firewall_14",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_14",
+    "characterId": "companion",
+    "sentence": "That happens a lot when a port for an old service is forgotten and accidentally left open.",
+    "nextDialogue": "intro_firewall_15",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_15",
+    "characterId": "companion",
+    "sentence": "However, checking every single one manually would take forever...",
+    "nextDialogue": "intro_firewall_16",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "intro_firewall_16",
+    "characterId": "companion",
+    "sentence": "Follow me, let's find a terminal. I'll explain more when we get there.",
+    "nextDialogue": "NONE",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "lead_to_terminal_1",
+    "characterId": "companion",
+    "sentence": "Do you want me to lead you to the terminal?",
+    "nextDialogue": "NONE",
+    "actions": [],
+    "options": [{
+      "optionName": "Take me to the terminal",
+      "optionActions": [
+        "LeadToTerminal"
+      ]
+    },
+      {
+        "optionName": "I already know the way!",
+        "optionActions": [
+        ]
+      }]
+  },
+  {
+    "dialogueId": "port_found_1",
+    "characterId": "companion",
+    "sentence": "Alright, that's the vulnerable port, from there we can access the victim's PC",
+    "nextDialogue": "port_found_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "port_found_2",
+    "characterId": "companion",
+    "sentence": "Do you want me to lead you there?",
+    "nextDialogue": "NONE",
+    "actions": [],
+    "options": [{
+      "optionName": "Lead the way",
+      "optionActions": [
+        "LeadToPort"
+      ]
+    },
+      {
+        "optionName": "I can get there on my own",
+        "optionActions": [
+        ]
+      }]
+  }
+]

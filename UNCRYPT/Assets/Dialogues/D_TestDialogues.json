@@ -1,0 +1,64 @@
+[
+  {
+    "dialogueId": "test_1",
+    "characterId": "test_char_1",
+    "sentence": "Hi!",
+    "nextDialogue": "test_2",
+    "actions": ["PlayAnimation|A_Idle"]
+  },
+  {
+    "dialogueId": "test_2",
+    "characterId": "test_char_1",
+    "sentence": "It's nice to have you here",
+    "nextDialogue": "test_3"
+  },
+  {
+    "dialogueId": "test_3",
+    "characterId": "test_char_1",
+    "sentence": "WAIT...",
+    "nextDialogue": "test_4"
+  },
+  {
+    "dialogueId": "test_4",
+    "characterId": "test_char_1",
+    "sentence": "Why am I talking to...&& A CAT?!",
+    "nextDialogue": "test_5"
+  },
+  {
+    "dialogueId": "test_5",
+    "characterId": "test_char_1",
+    "sentence": "HOW?!&&& Where even am I?",
+    "actions": ["PlayAnimation|A_Panic"],
+    "nextDialogue": "test_6"
+  },
+  {
+    "dialogueId": "test_6",
+    "characterId": "test_char_1",
+    "sentence": "Well... Anyways, what do you think of this?",
+    "options": [
+      {
+        "optionName": "I have a bomb",
+        "optionActions": ["JumpTo|condition_1"]
+      },
+      {
+        "optionName": "Robert Undercup",
+        "optionActions": ["JumpTo|condition_2"]
+      }
+    ],
+    "actions": ["PlayAnimation|A_Idle"],
+    "nextDialogue": "NONE"
+  },
+  {
+    "dialogueId": "condition_1",
+    "characterId": "test_char_1",
+    "sentence": "I DON'T WANT TO DIEEEE",
+    "actions": ["PlayAnimation|A_Panic"],
+    "nextDialogue": "NONE"
+  },
+  {
+    "dialogueId": "condition_2",
+    "characterId": "test_char_1",
+    "sentence": "Hehe",
+    "nextDialogue": "NONE"
+  }
+]

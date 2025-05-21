@@ -1,0 +1,723 @@
+[
+  {
+    "dialogueId": "arrived_to_filesystem_1",
+    "characterId": "companion",
+    "sentence": "Okay, we’ve finally arrived at our destination.",
+    "nextDialogue": "arrived_to_filesystem_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "arrived_to_filesystem_2",
+    "characterId": "companion",
+    "sentence": "I hope you’ve figured out how the firewall works.",
+    "nextDialogue": "arrived_to_filesystem_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "arrived_to_filesystem_3",
+    "characterId": "companion",
+    "sentence": "This is the file system of our victim.",
+    "nextDialogue": "arrived_to_filesystem_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "arrived_to_filesystem_4",
+    "characterId": "companion",
+    "sentence": "The file system is the structure that organizes data on the device. Here, we can find documents, images, and, with a bit of luck, sensitive information like saved passwords.",
+    "nextDialogue": "arrived_to_filesystem_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "arrived_to_filesystem_5",
+    "characterId": "companion",
+    "sentence": "Now, we need to find the user’s password. It’s probably hidden in a text file or some encrypted database.",
+    "nextDialogue": "arrived_to_filesystem_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "arrived_to_filesystem_6",
+    "characterId": "companion",
+    "sentence": "Before we continue, it’s best to save our progress by heading back to the HUB. We don’t want to lose all our work, right?",
+    "nextDialogue": "NONE",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_1",
+    "characterId": "companion",
+    "sentence": "Alright, here we are...",
+    "nextDialogue": "need_to_find_password_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_2",
+    "characterId": "companion",
+    "sentence": "But now the real challenge begins. We need to find the file where the passwords are stored.",
+    "nextDialogue": "need_to_find_password_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_3",
+    "characterId": "companion",
+    "sentence": "The problem is, we have no idea where they are located exactly.",
+    "nextDialogue": "need_to_find_password_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_4",
+    "characterId": "companion",
+    "sentence": "It could be hidden anywhere, so we’ll need some clever thinking.",
+    "nextDialogue": "need_to_find_password_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_5",
+    "characterId": "companion",
+    "sentence": "I recommend you take a look around. Maybe someone here knows something.",
+    "nextDialogue": "need_to_find_password_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_6",
+    "characterId": "companion",
+    "sentence": "Let’s talk to the locals,& they might have some useful tips for us.",
+    "nextDialogue": "need_to_find_password_7",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_7",
+    "characterId": "companion",
+    "sentence": "And keep your eyes open: we might find hidden clues, signs, notes... anything.",
+    "nextDialogue": "need_to_find_password_8",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_password_8",
+    "characterId": "companion",
+    "sentence": "Let’s go, the sooner we find that file, the better.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "found_password_file_1",
+    "characterId": "companion",
+    "sentence": "Here it is! This must be the file we were looking for.",
+    "nextDialogue": "found_password_file_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "found_password_file_2",
+    "characterId": "companion",
+    "sentence": "But something’s not right... maybe it’s encrypted.",
+    "nextDialogue": "found_password_file_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "found_password_file_3",
+    "characterId": "companion",
+    "sentence": "Great job! Now we just need to head back to the HUB to save our progress.",
+    "nextDialogue": "found_password_file_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "found_password_file_4",
+    "characterId": "companion",
+    "sentence": "We need to move quickly, we don’t want to risk losing everything we’ve gathered so far.",
+    "nextDialogue": "found_password_file_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "found_password_file_5",
+    "characterId": "companion",
+    "sentence": "Let’s head straight to the HUB now.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_first_key_1",
+    "characterId": "companion",
+    "sentence": "The file from last time is encrypted.",
+    "nextDialogue": "need_to_find_first_key_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_first_key_2",
+    "characterId": "companion",
+    "sentence": "It looks like we need two keys to unlock it... and both have been hidden separately.",
+    "nextDialogue": "need_to_find_first_key_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_first_key_3",
+    "characterId": "companion",
+    "sentence": "For now, let’s focus on finding the first key. It’s gotta be around here somewhere.",
+    "nextDialogue": "need_to_find_first_key_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_first_key_4",
+    "characterId": "companion",
+    "sentence": "Like before, we’ll need to ask around. Maybe someone has seen something or heard about this key.",
+    "nextDialogue": "need_to_find_first_key_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_first_key_5",
+    "characterId": "companion",
+    "sentence": "And remember to keep an eye out for anything unusual in the environment... there might be hidden clues like symbols, codes, or cryptic messages.",
+    "nextDialogue": "need_to_find_first_key_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_first_key_6",
+    "characterId": "companion",
+    "sentence": "This won’t be easy... but it’s the only way to decrypt that file.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "first_key_found_1",
+    "characterId": "companion",
+    "sentence": "We got it! This is the first key!",
+    "nextDialogue": "first_key_found_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "first_key_found_2",
+    "characterId": "companion",
+    "sentence": "It was well hidden... but I knew you’d manage to find it.",
+    "nextDialogue": "first_key_found_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "first_key_found_3",
+    "characterId": "companion",
+    "sentence": "Now it's best to return to the HUB and save our progress, before anything goes wrong.",
+    "nextDialogue": "first_key_found_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "first_key_found_4",
+    "characterId": "companion",
+    "sentence": "Then we can focus on finding the second key.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_second_key_1",
+    "characterId": "companion",
+    "sentence": "Alright, we’ve saved the first key. One step forward...",
+    "nextDialogue": "need_to_find_second_key_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_second_key_2",
+    "characterId": "companion",
+    "sentence": "But the file is still locked. We need the second key to fully decrypt it.",
+    "nextDialogue": "need_to_find_second_key_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_second_key_3",
+    "characterId": "companion",
+    "sentence": "From what we’ve discovered, it should be in a completely different area.",
+    "nextDialogue": "need_to_find_second_key_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_second_key_4",
+    "characterId": "companion",
+    "sentence": "It might be even harder to find. Maybe it’s hidden behind some security system or protected by a puzzle.",
+    "nextDialogue": "need_to_find_second_key_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_second_key_5",
+    "characterId": "companion",
+    "sentence": "Same strategy: gather information, observe every detail, follow the clues.",
+    "nextDialogue": "need_to_find_second_key_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_second_key_6",
+    "characterId": "companion",
+    "sentence": "And be careful... there might be someone who doesn’t want us to get to the end.",
+    "nextDialogue": "need_to_find_second_key_7",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_find_second_key_7",
+    "characterId": "companion",
+    "sentence": "When you’re ready, let’s move. The second key is waiting for us.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "second_key_found_1",
+    "characterId": "companion",
+    "sentence": "Fantastic! The second key is ours too.",
+    "nextDialogue": "second_key_found_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "second_key_found_2",
+    "characterId": "companion",
+    "sentence": "That wasn’t easy... but now we have everything we need to finally decrypt that file.",
+    "nextDialogue": "second_key_found_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "second_key_found_3",
+    "characterId": "companion",
+    "sentence": "Let’s head back to the HUB immediately. It’s better to secure these keys and save our progress before doing anything else.",
+    "nextDialogue": "second_key_found_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "second_key_found_4",
+    "characterId": "companion",
+    "sentence": "Once we’ve done that, we can finally use the decryption tool.",
+    "nextDialogue": "second_key_found_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "second_key_found_5",
+    "characterId": "companion",
+    "sentence": "It’s located at the center of the filesystem, in a very protected area. But with the keys in hand, we’re closer than ever.",
+    "nextDialogue": "second_key_found_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "second_key_found_6",
+    "characterId": "companion",
+    "sentence": "Let’s go, back to the HUB, and get ready for the final step.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_decrypt_1",
+    "characterId": "companion",
+    "sentence": "Alright, now comes the last step, it’s time to decrypt the password.",
+    "nextDialogue": "need_to_decrypt_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_decrypt_2",
+    "characterId": "companion",
+    "sentence": "Follow me, I know something that might help us.",
+    "nextDialogue": "need_to_decrypt_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "need_to_decrypt_3",
+    "characterId": "companion",
+    "sentence": "But be careful, we’ll need admin permissions to access it...",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "arena_completed_1",
+    "characterId": "companion",
+    "sentence": "Alright, we finally managed to trick the user into giving us admin permissions!",
+    "nextDialogue": "arena_completed_2",
+    "actions": [],
+    "options": []
+  }
+,
+  {
+    "dialogueId": "arena_completed_2",
+    "characterId": "companion",
+    "sentence": "Now let’s open the cypher tool.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_1_find_file_1",
+    "characterId": "fs_npc_1",
+    "sentence": "Hey, don’t move anything, I just reorganized everything alphabetically!",
+    "nextDialogue": "fs_npc_1_find_file_2",
+    "actions": [],
+    "options": [
+    ]
+  },
+  {
+    "dialogueId": "fs_npc_1_find_file_2",
+    "characterId": "fs_npc_1",
+    "sentence": "You know... I used to be a shared folder. Shared! Everyone just dumped stuff in: PDFs, images, temporary files... Since then, I’ve developed this...& um... &little disorder anxiety. But now everything here is sorted by type, date, and even color if you want.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": [
+      {
+        "optionName": "Did you happen to see a file called password?",
+        "optionActions": [
+          "JumpTo|fs_npc_1_find_file_3"
+        ]
+      },
+      {
+        "optionName": "Oh, okay, if you’re busy, I’ll leave you alone...",
+        "optionActions": [
+          "ResetMemory"
+        ]
+      }
+    ]
+  },
+  {
+    "dialogueId": "fs_npc_1_find_file_3",
+    "characterId": "fs_npc_1",
+    "sentence": "What? Why would anyone leave their passwords lying around?",
+    "nextDialogue": "fs_npc_1_find_file_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_1_find_file_4",
+    "characterId": "fs_npc_1",
+    "sentence": "Although... the owner of this computer is really messy, I can’t stand it.",
+    "nextDialogue": "fs_npc_1_find_file_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_1_find_file_5",
+    "characterId": "fs_npc_1",
+    "sentence": "Anyway, no, I haven't seen any file like that around here, you may be on the wrong path.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_1_random_1",
+    "characterId": "fs_npc_1",
+    "sentence": "Please, be careful where you step. That's a very delicate link. One wrong step and you could break the entire directory path. And I...& I& don't know if I could put everything back together... &again.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_1_random_2",
+    "characterId": "fs_npc_1",
+    "sentence": "Did you wash your hands before touching my metadata?",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_1_random_3",
+    "characterId": "fs_npc_1",
+    "sentence": "Who has invented the .webp extension?!",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_2_find_file_1",
+    "characterId": "fs_npc_2",
+    "sentence": "Ah, look at who's wandering around without a clear directory. Typical.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": [
+      {
+        "optionName": "Have you seen a file called password?",
+        "optionActions": [
+          "JumpTo|fs_npc_2_find_file_2"
+        ]
+      },
+      {
+        "optionName": "I won't bother you any further.",
+        "optionActions": []
+      }
+    ]
+  },
+  {
+    "dialogueId": "fs_npc_2_find_file_2",
+    "characterId": "fs_npc_2",
+    "sentence": "Oh, sure... password. The most original name of the century.",
+    "nextDialogue": "fs_npc_2_find_file_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_2_find_file_3",
+    "characterId": "fs_npc_2",
+    "sentence": "I'm sorry to disappoint you, but I'm not the type to snoop around personal files. At most, I judge them.",
+    "nextDialogue": "fs_npc_2_find_file_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_2_find_file_4",
+    "characterId": "fs_npc_2",
+    "sentence": "Anyway, I think you're on the opposite path, I can tell you're not from around here.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_2_random_1",
+    "characterId": "fs_npc_2",
+    "sentence": "I shouldn't have looked at the homework folder.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_2_random_2",
+    "characterId": "fs_npc_2",
+    "sentence": "I've been here since you were just a byte.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_find_file_1",
+    "characterId": "fs_task_manager",
+    "sentence": "Process detected. Restricted access to confidential information. Prove that you're... functional.",
+    "nextDialogue": "fs_task_manager_riddle_1",
+    "actions": [
+      "PlayAnimation|Worried"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_riddle_1",
+    "characterId": "fs_task_manager",
+    "sentence": "Answer this: I'm invisible, but everyone uses me. I'm not an app, but without me nothing works. What am I?",
+    "nextDialogue": "",
+    "actions": [
+      "PlayAnimation|Annoyed"
+    ],
+    "options": [
+      {
+        "optionName": "The Kernel",
+        "optionActions": [
+          "JumpTo|fs_task_manager_riddle_correct"
+        ]
+      },
+      {
+        "optionName": "Wi-Fi",
+        "optionActions": [
+          "JumpTo|fs_task_manager_riddle_retry"
+        ]
+      },
+      {
+        "optionName": "The Mouse",
+        "optionActions": [
+          "JumpTo|fs_task_manager_riddle_retry"
+        ]
+      }
+    ]
+  },
+  {
+    "dialogueId": "fs_task_manager_riddle_retry",
+    "characterId": "fs_task_manager",
+    "sentence": "Incorrect answer. Unauthorized process. Try again.",
+    "nextDialogue": "fs_task_manager_riddle_1",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_riddle_correct",
+    "characterId": "fs_task_manager",
+    "sentence": "Correct answer. Partial authentication accepted.",
+    "nextDialogue": "fs_task_manager_hint_location",
+    "actions": [
+      "PlayAnimation|Idle"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_hint_location",
+    "characterId": "fs_task_manager",
+    "sentence": "The file password.txt has been tracked... it is located at the top right of the map. Approximate coordinates: upper-right sector.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_first_key_1",
+    "characterId": "fs_task_manager",
+    "sentence": "The systems are constantly evolving, and you're navigating dangerous places.",
+    "nextDialogue": "fs_task_manager_first_key_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_first_key_2",
+    "characterId": "fs_task_manager",
+    "sentence": "Be careful, there's more than just the key to find. There are traps and running processes that might prevent you from finding what you're looking for.",
+    "nextDialogue": "fs_task_manager_first_key_3",
+    "actions": [
+      "PlayAnimation|Worried"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_first_key_3",
+    "characterId": "fs_task_manager",
+    "sentence": "Make sure you don't leave too obvious traces. Sometimes, the system's eyes can look where you don't want them to.",
+    "nextDialogue": "",
+    "actions": [
+      "PlayAnimation|Annoyed"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_second_key_1",
+    "characterId": "fs_task_manager",
+    "sentence": "You &again? Well, this time I already know what you're looking for, I think I saw a strange object in the top-left area of the map.",
+    "nextDialogue": "fs_task_manager_second_key_2",
+    "actions": [
+      "PlayAnimation|Annoyed"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_second_key_2",
+    "characterId": "fs_task_manager",
+    "sentence": "Now, leave me to my stressful job.",
+    "nextDialogue": "",
+    "actions": [
+      "PlayAnimation|Sad"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_random_1",
+    "characterId": "fs_task_manager",
+    "sentence": "How many times have I told you it's not a good idea to leave everything open? Every program needs to close properly, or chaos happens.",
+    "nextDialogue": "",
+    "actions": [
+      "PlayAnimation|Annoyed"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_random_2",
+    "characterId": "fs_task_manager",
+    "sentence": "Every time I see a program crash, I wonder... why do we do this? I don't understand this madness. But I guess this is our job.",
+    "nextDialogue": "",
+    "actions": [
+      "PlayAnimation|Annoyed"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_task_manager_random_3",
+    "characterId": "fs_task_manager",
+    "sentence": "I forgot to suspend the program that was cooking my chicken and now it's burned!",
+    "nextDialogue": "",
+    "actions": [
+      "PlayAnimation|Sad"
+    ],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_2_random_3",
+    "characterId": "fs_npc_2",
+    "sentence": "Well, it's nice to see you wandering around my spaces again. Are you sure you want to keep clicking on everything?",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_3_first_key_1",
+    "characterId": "fs_npc_3",
+    "sentence": "Ah, I see you've found the file. Good, but it's not all. The key you're looking for... is more hidden than you think.",
+    "nextDialogue": "fs_npc_3_first_key_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_3_first_key_2",
+    "characterId": "fs_npc_3",
+    "sentence": "Maybe you should keep searching on this side, but further south.",
+    "nextDialogue": "fs_npc_3_first_key_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_3_first_key_3",
+    "characterId": "fs_npc_3",
+    "sentence": "The first key isn't where you'd expect, it's among the most forgotten files. But if I were you... I'd have already found it.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_3_random_1",
+    "characterId": "fs_npc_3",
+    "sentence": "You know, sometimes I wonder if all these files are really necessary.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "fs_npc_3_random_2",
+    "characterId": "fs_npc_3",
+    "sentence": "Sometimes, the best hack is to do nothing. Let the system destroy itself.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "guard_1_block_1",
+    "characterId": "guard_1",
+    "sentence": "This is a protected area, you need both keys to access.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "guard_2_block_1",
+    "characterId": "guard_2",
+    "sentence": "This is a protected area, you need both keys to access.",
+    "nextDialogue": "",
+    "actions": [],
+    "options": []
+  }
+]

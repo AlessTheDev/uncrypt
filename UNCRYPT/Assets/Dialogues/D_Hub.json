@@ -1,0 +1,200 @@
+[
+  {
+    "dialogueId": "hub_intro_1",
+    "characterId": "companion",
+    "sentence": "Booting system... loading",
+    "nextDialogue": "hub_intro_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_2",
+    "characterId": "companion",
+    "sentence": "Language detected: IT, Assistant OS is READY...",
+    "nextDialogue": "hub_intro_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_3",
+    "characterId": "companion",
+    "sentence": "Welcome to the memory area: ./HUB.",
+    "nextDialogue": "hub_intro_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_4",
+    "characterId": "companion",
+    "sentence": "{playerName}, I will be your supervisor for the time being.",
+    "nextDialogue": "hub_intro_5",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_5",
+    "characterId": "companion",
+    "sentence": "You must be wondering: who are you really? Well, you're a freshly created virus, designed to infiltrate systems and steal data.",
+    "nextDialogue": "hub_intro_6",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_6",
+    "characterId": "companion",
+    "sentence": "You know, there's a serious cybersecurity problem going around.",
+    "nextDialogue": "hub_intro_7",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_7",
+    "characterId": "companion",
+    "sentence": "Many people don't even understand how a computer works, let alone how to protect their data.",
+    "nextDialogue": "NONE",
+    "actions": [],
+    "options": [
+      {
+        "optionName": "Cybersecurity?",
+        "optionActions": [
+          "JumpTo|cybersecurity_explanation_1"
+        ]
+      },
+      {
+        "optionName": "Am I a malware?",
+        "optionActions": [
+          "JumpTo|malware_explanation_1"
+        ]
+      }
+    ]
+  },
+  {
+    "dialogueId": "cybersecurity_explanation_1",
+    "characterId": "companion",
+    "sentence": "Never heard of cybersecurity before?",
+    "nextDialogue": "cybersecurity_explanation_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "cybersecurity_explanation_2",
+    "characterId": "companion",
+    "sentence": "Computer systems have all kinds of vulnerabilities. Some come from poor programming or misconfigurations.",
+    "nextDialogue": "cybersecurity_explanation_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "cybersecurity_explanation_3",
+    "characterId": "companion",
+    "sentence": "Others from human error. Like saving passwords in a plain text file on the desktop.",
+    "nextDialogue": "cybersecurity_explanation_4",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "cybersecurity_explanation_4",
+    "characterId": "companion",
+    "sentence": "That's why I'm going to walk you through some essential cybersecurity concepts. By infiltrating a computer together!",
+    "nextDialogue": "hub_intro_8",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "malware_explanation_1",
+    "characterId": "companion",
+    "sentence": "Yes! And I'm here to show you how to infect a computer.",
+    "nextDialogue": "malware_explanation_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "malware_explanation_2",
+    "characterId": "companion",
+    "sentence": "Understanding how malware works is actually one of the best ways to learn how to defend against it.",
+    "nextDialogue": "hub_intro_8",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_8",
+    "characterId": "companion",
+    "sentence": "There's no time to waste, let's dive into the basics.",
+    "nextDialogue": "hub_intro_9",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_9",
+    "characterId": "companion",
+    "sentence": "Behind me is the HUB: our operations center. Head over and press E or ENTER or (A / South Button), if you're using a controller",
+    "nextDialogue": "hub_intro_10",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "hub_intro_10",
+    "characterId": "companion",
+    "sentence": "From the HUB, you can launch missions, review the data you've gathered, or access the terminal.",
+    "nextDialogue": "NONE",
+    "actions": [],
+    "options": [
+      {
+        "optionName": "Terminal?",
+        "optionActions": [
+          "JumpTo|terminal_explanation_1"
+        ]
+      },
+      {
+        "optionName": "Missions?",
+        "optionActions": [
+          "JumpTo|mission_explanation_1"
+        ]
+      },
+      {
+        "optionName": "Got it!",
+        "optionActions": []
+      }
+    ]
+  },
+  {
+    "dialogueId": "terminal_explanation_1",
+    "characterId": "companion",
+    "sentence": "The terminal is your direct line into the system, it lets you send commands and interact with the environment.",
+    "nextDialogue": "terminal_explanation_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "terminal_explanation_2",
+    "characterId": "companion",
+    "sentence": "Use it to explore and manipulate data to your advantage.",
+    "nextDialogue": "terminal_explaination_3",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "terminal_explaination_3",
+    "characterId": "companion",
+    "sentence": "It's easy to use... just type! Don't worry, I'll teach you everything step-by-step.",
+    "nextDialogue": "hub_intro_10",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "mission_explanation_1",
+    "characterId": "companion",
+    "sentence": "Missions are where you put your skills to the test.",
+    "nextDialogue": "mission_explanation_2",
+    "actions": [],
+    "options": []
+  },
+  {
+    "dialogueId": "mission_explanation_2",
+    "characterId": "companion",
+    "sentence": "You'll gather data and face challenges as you work your way deeper into the system.",
+    "nextDialogue": "hub_intro_10",
+    "actions": [],
+    "options": []
+  }
+]
