@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-**Uncrypt** was developed by **Team Route 35** as a school project (we had just over 3 months to create this game...), presenting a unique approach to cybersecurity education. Instead of traditional defensive tutorials, we put players in the shoes of a computer virus to teach them security concepts from an attacker's perspective because understanding how systems are compromised is the first step to protecting them.
+**Uncrypt** was developed by **Team Route 35** as a school project (we spent a little over 3 months creating this game...), presenting a unique approach to cybersecurity education. Instead of traditional defensive tutorials, we put players in the shoes of a computer virus to teach them security concepts from an attacker's perspective because understanding how systems are compromised is the first step to protecting them.
 
 More Details can be found in the **Game Design Document**: https://spiny-twister-fd0.notion.site/Uncrypt-GDD-1d7e65d1a24880a2b812d80183b32c4c?pvs=4 
 
