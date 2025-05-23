@@ -18,10 +18,10 @@
 
 **Uncrypt** was developed by **Team Route 35** as a school project (we spent a little over 3 months creating this game...), presenting a unique approach to cybersecurity education. Instead of traditional tutorials, we put players in the shoes of a computer virus to teach them security concepts from an attacker's perspective because understanding how systems are compromised is the first step to protecting them.
 
-More Details can be found in the **Game Design Document**: https://spiny-twister-fd0.notion.site/Uncrypt-GDD-1d7e65d1a24880a2b812d80183b32c4c?pvs=4 
+More Details can be found in the [**Game Design Document**](./Uncrypt_GDD.pdf) (Use this link if the previous one doesn't work: https://spiny-twister-fd0.notion.site/Uncrypt-GDD-1d7e65d1a24880a2b812d80183b32c4c?pvs=4)
 
 ## About Route 35
-Route 35 is a creative subteam formed specifically for projects that diverge from Cupflow’s main line of work. Originally, Cupflow was established by Aless and Scstefan as a collaborative identity under which they produced various creative works. For certain projects, such as school-related competitions or experimental releases that fall outside of Cupflow’s typical scope, a new team identity was needed.
+Route 35 is a creative subteam formed specifically for projects that diverge from Cupflow's main line of work. Originally, Cupflow was established by Aless and Scstefan as a collaborative identity under which they produced various creative works. For certain projects, such as school-related competitions or experimental releases that fall outside of Cupflow’s typical scope, a new team identity was needed.
 Thus, Route 35 was created. It retains Cupflow’s core members and creative style while allowing flexibility in team composition and project direction. For the project in question, Route 35 included Aless, Scstefan, Bluwolf (who contributed modeling, textures, sound effects, and writing), and one additional team member who helped with minor things and preferred to remain anonymous.
 
 Credits for this project
@@ -30,8 +30,9 @@ Credits for this project
 - **Bluwolf** - 3D Modeler & Sound Designer (Assets, audio systems)
 
 Special thanks to 
-- Snake for making most of the game's music (https://www.youtube.com/@S.O-Music)
+- Snake for making most of the game's music and allowing us to use them (https://www.youtube.com/@S.O-Music)
 - Furetto126 for the menu music (https://www.youtube.com/@Furetto126)
+- Nufshi for providing some decorational assets 
 
 ### Screenshots
 
