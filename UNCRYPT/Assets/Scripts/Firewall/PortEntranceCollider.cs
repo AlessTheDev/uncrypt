@@ -17,7 +17,7 @@ namespace Firewall
                 {
                     _ = SceneFader.Instance.SwitchScene(Scenes.FileSystem);
                 }
-                else
+                else if(!TopUIDialogue.Instance.IsBusy)
                 {
                     TopUIDialogue.Instance.ShowDialogue(new []
                     {
