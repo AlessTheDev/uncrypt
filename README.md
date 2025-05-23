@@ -161,6 +161,10 @@ Assets/
 ## License & Usage
 This project is shared as open source for educational purposes. Feel free to explore our implementations, learn from our approaches, and adapt our systems for your own projects. We ask only that you give us credits if you use significant portions of our work.
 
+# Assets Attributions
+Some icons for the UI were taken from flaticon.com
+Some textures were downloaded from https://freestylized.com/disclaimer/
+
 ## Connect With Us
 While this was created for a contest, we'd love to hear from other developers and educators interested in our approach. Feel free to explore the code, ask questions through GitHub issues, or reach out to discuss educational game development.
 
